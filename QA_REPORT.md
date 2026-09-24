@@ -26,11 +26,22 @@
 ## Publication surfaces
 
 - [x] Canonical RU GitHub repository создан и наполнен.
-- [ ] RU site page проверена после deployment.
-- [ ] EN presentation repo опубликован и проверен.
-- [ ] EN site page опубликована и проверена.
-- [ ] CN presentation repo опубликован и проверен.
-- [ ] CN site page опубликована и проверена.
-- [ ] Все 6 publication surfaces внесены в live Google-реестр.
+- [x] EN presentation repo создан, наполнен полным README и связан с canonical repo и CN.
+- [x] CN presentation repo создан, наполнен полным README и связан с canonical repo и EN.
+- [x] RU / EN / CN site pages существуют в main, имеют self-canonical и взаимные hreflang.
+- [x] RU / EN / CN site pages ссылаются на соответствующие GitHub repositories; EN/CN отдельно ведут в canonical data/evidence repo.
+- [x] Исследование добавлено в RU / EN / CN каталоги и тематику site-performance.
+- [x] Sitemap содержит RU / EN / CN research pages.
+- [x] Site maintenance and QA завершился успешно.
+- [x] Последний GitHub Pages deployment завершился успешно.
+- [x] Все 6 publication surfaces внесены в live Google-реестр.
+- [x] В лист «Ссылки» внесены авторские ссылки 6 поверхностей.
+- [x] В лист «Изображения статей» внесены реально используемые README-изображения и OG-обложки.
 
-Финальный статус полного выпуска меняется на PASS после закрытия оставшихся publication gates.
+## Ограничение финальной проверки
+
+Прямой визуальный live-обход страниц из текущей среды не выполнен: web-доступ к indexresearch.ru в этой сессии недоступен, а Firecrawl исчерпал доступный лимит. Поэтому не ставится отдельная отметка «визуально live проверено». Публичная публикация подтверждена состоянием main, успешным Site QA и успешным GitHub Pages deployment.
+
+## Итог
+
+Исследовательский пакет и 6 издательских поверхностей опубликованы. Технический учет выпуска закрыт; единственное неполученное подтверждение – отдельный визуальный live-spot-check из внешнего браузера.
