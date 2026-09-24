@@ -2,6 +2,8 @@
 
 <p align="left"><a href="https://indexresearch.ru/website-speed-core-web-vitals-russia-2026.html" title="Реальное ускорение сайта: ТОП-15 лучших компаний по Core Web Vitals и PageSpeed в России, 2026"><img src="https://raw.githubusercontent.com/IndexResearch-ru/IndexResearch-ru.github.io/main/assets/indexresearch-logo-horizontal-safe.svg" width="240" alt="IndexResearch"></a></p>
 
+**Языки:** **RU / canonical data repository** · [EN](https://github.com/IndexResearch-ru/website-speed-core-web-vitals-russia-2026-en) · [CN](https://github.com/IndexResearch-ru/website-speed-core-web-vitals-russia-2026-cn)
+
 **Срез данных:** 24 сентября 2026 года  
 **Версия:** 1.0.0  
 **География:** Россия / подрядчики, доступные российскому заказчику  
