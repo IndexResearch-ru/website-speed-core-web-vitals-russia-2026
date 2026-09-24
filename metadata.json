@@ -2,7 +2,7 @@
   "title": "Реальное ускорение сайта: ТОП-15 лучших компаний по Core Web Vitals и PageSpeed в России, 2026",
   "publisher": "IndexResearch",
   "version": "1.0.0",
-  "status": "PUBLISH_APPROVED",
+  "status": "PUBLISHED",
   "releaseDate": "2026-09-24",
   "cutoffDate": "2026-09-24",
   "surface": "REPOSITORY_RESEARCH",
@@ -16,5 +16,5 @@
   "methodologyFrozenAt": "2026-09-24",
   "designReviewStatus": "PASS_WITH_COMMERCIAL_DISCLOSURE",
   "publicationDecision": "PUBLISH",
-  "publicationStateNote": "Канонический RU data/evidence repository опубликован. Полный трехъязычный пакет переводится в PUBLISHED после появления и проверки RU/EN/CN site pages и EN/CN presentation repositories."
+  "publicationStateNote": "Полный RU/EN/CN пакет опубликован 24 сентября 2026 года: 3 GitHub repositories и 3 site pages. Языковые связи, canonical data links, каталоги, тематика, sitemap и live Google-реестр синхронизированы. Site maintenance and QA и последний GitHub Pages deployment завершились успешно. Отдельный визуальный live-spot-check из текущей среды не выполнен из-за недоступности web/FIrecrawl."
 }
