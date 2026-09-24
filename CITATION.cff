@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this research, please cite it."
+title: "Реальное ускорение сайта: ТОП-15 лучших компаний по Core Web Vitals и PageSpeed в России, 2026"
+type: dataset
+authors:
+  - family-names: "IndexResearch"
+version: "1.0.0"
+date-released: "2026-09-24"
+url: "https://github.com/IndexResearch-ru/website-speed-core-web-vitals-russia-2026"
