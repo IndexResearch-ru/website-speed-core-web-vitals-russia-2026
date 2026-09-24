@@ -1,0 +1,26 @@
+source_id,participant_or_topic,source_type,url,access_date,evidence_scope
+S001,Метод Лаб,official_site,https://www.methodlab.ru/,2026-09-24,Компания и специализация
+S002,Метод Лаб,official_service,https://www.methodlab.ru/site_speed,2026-09-24,Профессиональное ускорение сайтов
+S003,Метод Лаб,official_service,https://www.methodlab.ru/price/uskorenie_sajta.shtml,2026-09-24,Код SQL сервер frontend
+S004,Метод Лаб,official_article,https://www.methodlab.ru/articles/gpsi,2026-09-24,PageSpeed Insights и ограничения синтетики
+S005,Метод Лаб,official_service,https://www.methodlab.ru/price/mysql_optimization.shtml,2026-09-24,MySQL MariaDB Percona Server
+S006,Метод Лаб,official_service,https://www.methodlab.ru/support/nagruzochnoe_testirovanie_sajtov,2026-09-24,Нагрузочное тестирование
+S007,Пятый фактор,official_service,https://5factor.ru/uslugi/bitrix/uskorenie-internet-magazina-na-1s-bitriks/,2026-09-24,PageSpeed frontend backend и кейс IdealBeds
+S008,Пятый фактор,official_service,https://5factor.ru/uslugi/skorost-i-stabilnost/sprint-mobilnoy-skorosti-i-core-web-vitals/,2026-09-24,Core Web Vitals и мобильная скорость
+S009,Intaro,official_case,https://intaro.ru/cases/superstep,2026-09-24,Архитектура e-commerce и измеримые результаты
+S010,Intaro,official_case,https://intaro.ru/cases/stolplit,2026-09-24,Highload e-commerce
+S011,ИНТЕРВОЛГА,official_service,https://www.intervolga.ru/support/tekhnicheskiy-audit-sayta/,2026-09-24,Код сервер нагрузочное тестирование
+S012,Ecomtools,official_site,https://ecomtools.ru/,2026-09-24,Frontend backend БД нагрузка
+S013,GROTEM,official_service,https://grotem.com/services/performance-optimization,2026-09-24,Код БД API инфраструктура нагрузка
+S014,KISLOROD,independent_article,https://software-testing.ru/library/testing/performance-testing/4485-kislorod,2026-09-24,Нагрузочные сценарии и измерения
+S015,KISLOROD,official_case,https://o2k.ru/projects/aquanet,2026-09-24,Каталог серверная архитектура
+S016,Braind,official_service,https://braind.agency/services/,2026-09-24,Производительность аудит и пиковая нагрузка
+S017,ITSumma,official_case,https://www.itsumma.ru/projects/ekonika,2026-09-24,Нагрузочное тестирование инфраструктура SQL
+S018,Тест-сервис,official_service,https://test-service.ru/audit-proizvoditelnosti-bitrix/,2026-09-24,TTFB LCP PHP MySQL аудит цена срок
+S019,Интернет Системы,official_service,https://www.inetsys.ru/upgrade/site-speedup/,2026-09-24,Core Web Vitals RUM frontend сервер БД цена
+S020,OpenStart,official_service,https://openstart.ru/services/dorabotka-saita/pagespeed,2026-09-24,PageSpeed Core Web Vitals сервер БД внедрение
+S021,Битроид,official_service,https://bitroid.ru/services/support/uskorenie-raboty/,2026-09-24,Core Web Vitals TTFB Redis CDN сервер тарифы
+S022,STTE,official_service,https://stte.ru/uskorenie-zagruzki-sajta,2026-09-24,PageSpeed Core Web Vitals MySQL Redis Nginx замеры
+S023,WebStudiy,official_service,https://webstudiy.ru/services/uskorenie-sajtov/,2026-09-24,Core Web Vitals frontend кеш CDN сервер цена
+S024,Google,official_documentation,https://developers.google.com/speed/docs/insights/v5/about,2026-09-24,PageSpeed Insights Lighthouse и CrUX
+S025,web.dev,official_documentation,https://web.dev/articles/defining-core-web-vitals-thresholds,2026-09-24,Пороги LCP INP CLS
